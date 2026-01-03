@@ -1,0 +1,48 @@
+23:45:08.348 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:45:08.352 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:45:08.371 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:45:08.371 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+23:45:08.373 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+23:45:08.398 [main] INFO  testCases.TC003LogindDDT - Login Test case started....
+23:45:10.409 [main] INFO  testCases.TC003LogindDDT - **** Login Test Finished ****
+23:45:10.432 [main] INFO  testCases.TC003LogindDDT - Login Test case started....
+23:45:31.426 [main] INFO  testCases.TC003LogindDDT - Login Test case started....
+23:45:52.154 [main] INFO  testCases.TC003LogindDDT - **** Login Test Finished ****
+23:45:52.170 [main] INFO  testCases.TC003LogindDDT - Login Test case started....
+23:46:12.774 [main] INFO  testCases.TC003LogindDDT - **** Login Test Finished ****
+00:02:32.186 [TestNG-tests-1] INFO  testCases.TC001AccountRegistrationTest - **** Starting TestCase ****
+00:02:33.083 [TestNG-tests-2] INFO  testCases.TC001AccountRegistrationTest - **** Starting TestCase ****
+00:02:33.180 [TestNG-tests-1] INFO  testCases.TC001AccountRegistrationTest - **** Clicked on my account ****
+00:02:33.337 [TestNG-tests-2] INFO  testCases.TC001AccountRegistrationTest - **** Clicked on my account ****
+00:06:27.857 [TestNG-tests-1] INFO  testCases.TC001AccountRegistrationTest - **** Starting TestCase ****
+00:06:28.294 [TestNG-tests-2] INFO  testCases.TC001AccountRegistrationTest - **** Starting TestCase ****
+00:06:28.397 [TestNG-tests-1] INFO  testCases.TC001AccountRegistrationTest - **** Clicked on my account ****
+00:06:28.463 [TestNG-tests-2] INFO  testCases.TC001AccountRegistrationTest - **** Clicked on my account ****
+00:10:50.368 [TestNG-tests-1] INFO  testCases.TC001AccountRegistrationTest - **** Starting TestCase ****
+00:10:50.368 [TestNG-tests-2] INFO  testCases.TC001AccountRegistrationTest - **** Starting TestCase ****
+00:10:50.660 [TestNG-tests-2] INFO  testCases.TC001AccountRegistrationTest - **** Clicked on my account ****
+00:10:50.745 [TestNG-tests-1] INFO  testCases.TC001AccountRegistrationTest - **** Clicked on my account ****
+00:16:12.590 [main] INFO  testCases.TC001AccountRegistrationTest - **** Starting TestCase ****
+00:16:12.761 [main] INFO  testCases.TC001AccountRegistrationTest - **** Clicked on my account ****
+00:16:13.465 [main] INFO  testCases.TC001AccountRegistrationTest - **** Clicked on Register link ****
+00:16:13.469 [main] INFO  testCases.TC001AccountRegistrationTest - **** providing Customer details ****
+00:16:14.142 [main] INFO  testCases.TC001AccountRegistrationTest - **** Validating expected message ****
+00:16:14.716 [main] INFO  testCases.TC001AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+00:17:28.208 [TestNG-tests-2] INFO  testCases.TC001AccountRegistrationTest - **** Starting TestCase ****
+00:17:28.208 [TestNG-tests-1] INFO  testCases.TC001AccountRegistrationTest - **** Starting TestCase ****
+00:17:28.369 [TestNG-tests-2] INFO  testCases.TC001AccountRegistrationTest - **** Clicked on my account ****
+00:17:28.419 [TestNG-tests-1] INFO  testCases.TC001AccountRegistrationTest - **** Clicked on my account ****
+00:19:08.759 [main] INFO  testCases.TC001AccountRegistrationTest - **** Starting TestCase ****
+00:19:09.068 [main] INFO  testCases.TC001AccountRegistrationTest - **** Clicked on my account ****
+00:19:09.414 [main] INFO  testCases.TC001AccountRegistrationTest - **** Clicked on Register link ****
+00:19:09.418 [main] INFO  testCases.TC001AccountRegistrationTest - **** providing Customer details ****
+00:19:09.926 [main] INFO  testCases.TC001AccountRegistrationTest - **** Validating expected message ****
+00:19:10.333 [main] INFO  testCases.TC001AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+00:19:13.146 [main] INFO  testCases.TC001AccountRegistrationTest - **** Starting TestCase ****
+00:19:13.395 [main] INFO  testCases.TC001AccountRegistrationTest - **** Clicked on my account ****
+00:19:13.801 [main] INFO  testCases.TC001AccountRegistrationTest - **** Clicked on Register link ****
+00:19:13.803 [main] INFO  testCases.TC001AccountRegistrationTest - **** providing Customer details ****
+00:19:14.327 [main] INFO  testCases.TC001AccountRegistrationTest - **** Validating expected message ****
+00:19:14.750 [main] INFO  testCases.TC001AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+22:15:29.302 [main] INFO  testCases.TC001AccountRegistrationTest - **** Starting TestCase ****
+22:15:29.924 [main] INFO  testCases.TC001AccountRegistrationTest - **** Clicked on my account ****
